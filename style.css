@@ -1,0 +1,64 @@
+@font-face {
+  font-family: mapolice;
+  src:url(police/CaviarDreams.ttf);
+}
+
+img{
+  border-top: solid;
+  border-right: solid;
+  border-left: solid;
+  border-bottom: solid;
+  border-width: thin;
+  border-radius: 10px 20px 10px 20px;
+
+}
+
+h2{
+  margin-left: 50px;
+  font-size: 30px;
+}
+
+section{
+  text-align: center;
+
+}
+
+body{
+  color: #DED8D8;
+  background-image: url(Images/widescreen-black-wallpaper-1920x-WTG200121707.jpg);
+  font-family: mapolice;
+}
+
+header{
+  text-align: center;
+}
+
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #B6B6B6;
+  text-decoration: underline;
+}
+
+article{
+  border-top: solid;
+  border-right: solid;
+  border-left: solid;
+  border-bottom: solid;
+  border-width: thin;
+  border-radius: 10px 20px 10px 20px;
+  box-shadow: 6px 6px 0px #6C6B6B;
+  border-spacing: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+
+}
+
+.droit{
+  margin-left: 300px;
+}
+/*background: radial-gradient(circle at left, #52A7EF, #2C96F0, #FFFFFF);*/
